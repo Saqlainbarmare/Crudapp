@@ -1,4 +1,4 @@
-# Crudapp
+# CRUDapp
 CRUD app built in MERN Stack
 
 ## Tech Stack
