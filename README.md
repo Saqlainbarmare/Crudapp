@@ -25,7 +25,7 @@ Clone to the Crud repository and run the following commands.
   git clone https://github.com/Saqlainbarmare/Crudapp.git
   cd crud
   npm install
-  npn run dev
+  npm run dev
 ```
 
 ## How to Do CRUD Operation
