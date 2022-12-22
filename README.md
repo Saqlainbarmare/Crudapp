@@ -1,10 +1,6 @@
 # Crudapp
 CRUD app built in MERN Stack
 
-# CRUD App
-
-Crud application built in MERN Stack Technologie
-
 ## Tech Stack
 
 **Client:** React, Redux, Chakra UI
